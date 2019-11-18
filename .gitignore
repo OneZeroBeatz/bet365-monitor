@@ -1,0 +1,8 @@
+*.exe
+*.pdb
+*.dll
+bin/
+.vs
+*/Setup/*
+*/Patches/*
+*/Packages/*
