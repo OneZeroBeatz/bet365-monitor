@@ -2,6 +2,7 @@
 *.pdb
 *.dll
 bin/
+obj/
 .vs
 */Setup/*
 */Debug/*
