@@ -4,5 +4,7 @@
 bin/
 .vs
 */Setup/*
+*/Debug/*
+*/Release/*
 */Patches/*
 */Packages/*
